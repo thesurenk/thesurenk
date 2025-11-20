@@ -39,6 +39,10 @@ I’m currently:
 [![Java][Java]][Java-url]  [![OpenJDK][OpenJDK.org]][OpenJDK-url]  [![Helidon][Helidon.io]][Helidon-url]  [![LangChain4j][LangChain4j]][LangChain4j-url]  [![Ollama][Ollama]][Ollama-url] [![GitHub Copilot][Github Copilot]][GithubCopilot-url] [![Cursor][Cursor]][Cursor-url] [![Angular][Angular.io]][Angular-url]  [![React][React.js]][React-url] [![MongoDB][MongoDB]][MongoDB-url] [![Elasticsearch][Elasticsearch]][Elasticsearch-url] [![AWS][AWS]][AWS-url] [![Azure][Azure]][Azure-url] [![Google Cloud][GCP]][GCP-url] [![Docker][Docker]][Docker-url] 
 
 ---
+### ✨ Certifications
+<img src="https://images.credly.com/size/340x340/images/1ae9d966-f6ec-4f16-996f-77e66ddfbd52/IBM_20Influencer_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/bf0b451d-46cf-4790-882d-75fbada73469/IBM_20Advocate_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/79e718df-c014-48a5-9f6a-666fb4751a1d/IBM_20Contributor_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/f8bb518f-e604-4531-83f3-52a47ba5b72d/Adobe_Certified_Master_Experience_Cloud_products_Digital_Badge.png" width="100" height="100">  &emsp; <img src="https://images.credly.com/size/340x340/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" width="100" height="100">
+
+---
 
 ### 🧩 My Projects
 | Project | Description | Link |
