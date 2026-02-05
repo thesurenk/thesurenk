@@ -49,6 +49,8 @@ I’m currently:
 |----------|--------------|------|
 | **[The JAQ Stack](https://github.com/surenk/jaq-stack)** | A prebuilt full stack (Java, JavaScript, NoSQL) for rapid web app development. | 🔗 [Repo](https://github.com/surenk/jaq-stack) |
 | **[Progress Java](https://progressjava.com)** | A modern learning site for Java developers — simplified, practical, up-to-date. | 🌐 [Website](https://progressjava.com) |
+| **[OpenJUG](https://openjug.dev)** | Open Java User Group - Java developer community. | 🌐 [Website](https://openjug.dev) |
+
 
 ---
 
@@ -57,6 +59,14 @@ I’m currently:
 - Contributor to **Jakarta EE**, **Apache Sling**, **Helidon**, and **Adobe ACS Commons**.  
 - Published author on **Oracle Blogs**, **Atlassian Bitbucket**, and **DZone**.
 - Frequent speaker at **UT Dallas**, **Seattle CodeCamp**, and **Commit Your Code**.
+
+---
+
+### 📢 Talks
+- WeAreDevelopers Tech Talk, Sep 2026 https://surenk.com/talk/wearedevelopers-tech-talk-sep-2026/
+- SAS Viya with Java, Apr 2026 https://surenk.com/talk/sas-innovate-apr-2026/
+- Jakarta Tech Talk, Feb 2026 - https://youtu.be/3Gvp49jCQ3M?si=7z7DU2IopX6agDDm
+- Commit your Code Conf, Sep 2025 - https://www.youtube.com/live/en2DcyDUYB4?si=8xuZqLgDkHIYyMUO&t=19104
 
 ---
 
