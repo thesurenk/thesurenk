@@ -28,15 +28,24 @@ I started as a developer, grew into an architect, and now lead global software e
 
 I’m currently:
 - 🧠 **Portfolio & Engineering Manager** at *Capgemini*, driving enterprise-scale digital transformation projects on the Adobe Experience Platform.  
-- 🎓 **Ph.D. Student in Artificial Intelligence** at Capitol Technology University.  
-- 🤝 **IEEE Senior Member** and **RSA Fellow**.  
+- 🎓 **Ph.D. Student in Artificial Intelligence** at Capitol Technology University.
+- 🤝 **IEEE Senior Member**, **RSA Fellow**, **SigmaXi Fellow**
 - 🧩 Inventor of **[JAQ Stack](https://jaqstack.org)** – an open-source, prebuilt Java + JavaScript + NoSQL rapid-app-dev stack.
-- 🌐 Creator of **[Progress Java](https://progressjava.com)** – a site to help developers learn modern Java.  
+- 🌐 Creator of **[Progress Java](https://progressjava.com)** – a site to help developers learn modern Java.
+- 🌐 Creator of **[Open Java User Group](https://openjug.dev)** – an open community for Java developers around the world.
 
 ---
 
 ### 🧰 Tech & Tools I Work With
 [![Java][Java]][Java-url]  [![OpenJDK][OpenJDK.org]][OpenJDK-url]  [![Helidon][Helidon.io]][Helidon-url]  [![LangChain4j][LangChain4j]][LangChain4j-url]  [![Ollama][Ollama]][Ollama-url] [![GitHub Copilot][Github Copilot]][GithubCopilot-url] [![Cursor][Cursor]][Cursor-url] [![Angular][Angular.io]][Angular-url]  [![React][React.js]][React-url] [![MongoDB][MongoDB]][MongoDB-url] [![Elasticsearch][Elasticsearch]][Elasticsearch-url] [![AWS][AWS]][AWS-url] [![Azure][Azure]][Azure-url] [![Google Cloud][GCP]][GCP-url] [![Docker][Docker]][Docker-url] 
+
+---
+
+### Member
+
+- **Fast Company - Executive Board Member** <img width="100" height="100" alt="fastcompany-exec-board" src="https://github.com/user-attachments/assets/928852dd-b996-43af-a974-10f05811bf56" />
+- **[ARM Ambassador](https://community.arm.com/arm-ambassadors/members)** <img width="100" height="100" alt="Welcome arm ambassadors" src="https://github.com/user-attachments/assets/8e72cd37-7d91-43ee-80e0-00903c09633e" />
+
 
 ---
 ### ✨ Certifications
@@ -62,21 +71,26 @@ I’m currently:
 
 ---
 
-### 📢 Talks
+### 📢 Recent Talks
 - WeAreDevelopers Tech Talk, Sep 2026 https://surenk.com/talk/wearedevelopers-tech-talk-sep-2026/
 - SAS Viya with Java, Apr 2026 https://surenk.com/talk/sas-innovate-apr-2026/
 - Jakarta Tech Talk, Feb 2026 - https://youtu.be/3Gvp49jCQ3M?si=7z7DU2IopX6agDDm
 - Commit your Code Conf, Sep 2025 - https://www.youtube.com/live/en2DcyDUYB4?si=8xuZqLgDkHIYyMUO&t=19104
+- For more https://surenk.com/talks/
 
 ---
 
 ### ✍️ Recent Writing
-- [Enabling AI Development in Java With Project Valhalla](https://surenk.medium.com/b77993b7038a)
-- [Helidon with Swagger & OpenAPI (Oracle Blog, 2022)](https://blogs.oracle.com/emeapartnerweblogic/post/helidon-with-swagger-openapi-by-suren-konathala)  
-- [How Much Does Java Cost? (DZone, 2020)](https://dzone.com/articles/how-much-does-java-cost)  
-- [Deploying Angular Apps on Google VM (Atlassian, 2019)](https://medium.com/@AtlassianBitbucket/deploying-an-angular-app-on-a-google-vm-using-bitbucket-pipelines-a826a22bb3cf)
 
-[More blogs](https://surenk.medium.com/)
+My Tech blog [TechInPieces.com](https://techinpieces.com)
+
+**Published Articles** - [Google Scholar Profile](https://scholar.google.com/citations?user=9fSr0NwAAAAJ&hl=en&authuser=2)
+
+- [The Nexus of Generative AI, AEM, and Java: Enabling Content Velocity and Dynamic Personalization of Smart Context-Aware Content for Modern Financial Services](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9fSr0NwAAAAJ&authuser=2&citation_for_view=9fSr0NwAAAAJ:2osOgNQ5qMEC)
+- [The Velocity Mandate: A Framework for Accelerating Hyper- Personalized Content in Financial Services with Generative AI, AEM, and Java](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9fSr0NwAAAAJ&authuser=2&citation_for_view=9fSr0NwAAAAJ:d1gkVwhDpl0C)
+- [Architecting Smart, Context-Aware Content Personalization in Finance: A Java and Adobe Experience Manager Framework Driven by Generative AI for Enhanced Velocity](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9fSr0NwAAAAJ&authuser=2&citation_for_view=9fSr0NwAAAAJ:u-x6o8ySG0sC)
+- [Generative AI in Software Architecture and Design: A New Paradigm for Intelligent Systems Engineering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9fSr0NwAAAAJ&authuser=2&citation_for_view=9fSr0NwAAAAJ:9yKSN-GCB0IC)
+
 ---
 
 ### 🌱 Currently Exploring
