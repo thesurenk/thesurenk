@@ -56,7 +56,8 @@ I’m currently:
 ### 🧩 My Projects
 | Project | Description | Link |
 |----------|--------------|------|
-| **[The JAQ Stack](https://github.com/surenk/jaq-stack)** | A prebuilt full stack (Java, JavaScript, NoSQL) for rapid web app development. | 🔗 [Repo](https://github.com/surenk/jaq-stack) |
+| **[AI Coding Skills](https://aicodingskills.dev)** | A community-maintained ecosystem of skills, plugins, agents, prompts, and examples for building reliable applications with AI coding tools, starting with Java. | 🔗 [Repo](https://github.com/AI-Coding-Skills) |
+| **[The JAQ Stack](https://jaqstack.org)** | A prebuilt full stack (Java, JavaScript, NoSQL) for rapid web app development. | 🔗 [Repo](https://github.com/surenk/jaq-stack) |
 | **[Progress Java](https://progressjava.com)** | A modern learning site for Java developers — simplified, practical, up-to-date. | 🌐 [Website](https://progressjava.com) |
 | **[OpenJUG](https://openjug.dev)** | Open Java User Group - Java developer community. | 🌐 [Website](https://openjug.dev) |
 
@@ -64,6 +65,7 @@ I’m currently:
 ---
 
 ### 🚀 Open Source & Community
+- Recent contributions [Github Copilot SDK](https://github.com/github/copilot-sdk) , [Grok Build](https://github.com/xai-org)
 - Member of the **OpenJDK Web Group**, contributing to the redesign of [openjdk.org](https://openjdk.org).  
 - Contributor to **Jakarta EE**, **Apache Sling**, **Helidon**, and **Adobe ACS Commons**.  
 - Published author on **Oracle Blogs**, **Atlassian Bitbucket**, and **DZone**.
