@@ -41,18 +41,6 @@ I’m currently:
 
 ---
 
-### Member
-
-- **Fast Company - Executive Board Member** <img width="100" height="100" alt="fastcompany-exec-board" src="https://github.com/user-attachments/assets/928852dd-b996-43af-a974-10f05811bf56" />
-- **[ARM Ambassador](https://community.arm.com/arm-ambassadors/members)** <img width="100" height="100" alt="Welcome arm ambassadors" src="https://github.com/user-attachments/assets/8e72cd37-7d91-43ee-80e0-00903c09633e" />
-
-
----
-### ✨ Certifications
-<img src="https://images.credly.com/size/340x340/images/1ae9d966-f6ec-4f16-996f-77e66ddfbd52/IBM_20Influencer_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/bf0b451d-46cf-4790-882d-75fbada73469/IBM_20Advocate_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/79e718df-c014-48a5-9f6a-666fb4751a1d/IBM_20Contributor_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/f8bb518f-e604-4531-83f3-52a47ba5b72d/Adobe_Certified_Master_Experience_Cloud_products_Digital_Badge.png" width="100" height="100">  &emsp; <img src="https://images.credly.com/size/340x340/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" width="100" height="100">
-
----
-
 ### 🧩 My Projects
 | Project | Description | Link |
 |----------|--------------|------|
@@ -61,6 +49,17 @@ I’m currently:
 | **[Progress Java](https://progressjava.com)** | A modern learning site for Java developers — simplified, practical, up-to-date. | 🌐 [Website](https://progressjava.com) |
 | **[OpenJUG](https://openjug.dev)** | Open Java User Group - Java developer community. | 🌐 [Website](https://openjug.dev) |
 
+---
+
+### Member
+- **Fast Company - Executive Board Member**
+- **[ARM Ambassador](https://community.arm.com/arm-ambassadors/members)** <img width="100" height="100" alt="Welcome arm ambassadors" src="https://github.com/user-attachments/assets/8e72cd37-7d91-43ee-80e0-00903c09633e" />
+
+
+---
+
+### ✨ Certifications
+<img src="https://images.credly.com/size/340x340/images/1ae9d966-f6ec-4f16-996f-77e66ddfbd52/IBM_20Influencer_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/bf0b451d-46cf-4790-882d-75fbada73469/IBM_20Advocate_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/79e718df-c014-48a5-9f6a-666fb4751a1d/IBM_20Contributor_202025.png" width="100" height="100"> &emsp; <img src="https://images.credly.com/size/340x340/images/f8bb518f-e604-4531-83f3-52a47ba5b72d/Adobe_Certified_Master_Experience_Cloud_products_Digital_Badge.png" width="100" height="100">  &emsp; <img src="https://images.credly.com/size/340x340/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" width="100" height="100">
 
 ---
 
