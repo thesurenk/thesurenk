@@ -41,7 +41,7 @@ I’m currently:
 
 ---
 
-### 🧩 My Projects
+### 🧩 Projects
 | Project | Description | Link |
 |----------|--------------|------|
 | **[AI Coding Skills](https://aicodingskills.dev)** | A community-maintained ecosystem of skills, plugins, agents, prompts, and examples for building reliable applications with AI coding tools, starting with Java. | 🔗 [Repo](https://github.com/AI-Coding-Skills) |
@@ -64,7 +64,8 @@ I’m currently:
 ---
 
 ### 🚀 Open Source & Community
-- Recent contributions [Github Copilot SDK](https://github.com/github/copilot-sdk) , [Grok Build](https://github.com/xai-org)
+- **GitHub [awesome-copilot](https://github.com/github/awesome-copilot)** authored **Java/Helidon Copilot skill** and a merged **Java sample** featured in the [Copilot Learning Hub Cookbook](https://awesome-copilot.github.com/learning-hub/cookbook/).
+- **xAI [Grok plugin-marketplace](https://github.com/xai-org/plugin-marketplace)** authored a **Java skills plugin** (Helidon + Spring Boot).
 - Member of the **OpenJDK Web Group**, contributing to the redesign of [openjdk.org](https://openjdk.org).  
 - Contributor to **Jakarta EE**, **Apache Sling**, **Helidon**, and **Adobe ACS Commons**.  
 - Published author on **Oracle Blogs**, **Atlassian Bitbucket**, and **DZone**.
